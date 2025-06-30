@@ -57,7 +57,7 @@
  
  ### Installation
  
- 1.  Clone the reposito git clone https://github.com/your-username/Smooth-Visualization-of-Satellite-Imagery.
+ 1.  Clone the reposito git clone https://github.com/iharishragav/Smooth-Visualization-of-Satellite-Imagery.
 2.  Install the required Python packag pip install -r requirements.
 3.  Run the Flask serv cd serve python app
 4.  Open the `frontend/client-processing/index.html` file in your web browser.
